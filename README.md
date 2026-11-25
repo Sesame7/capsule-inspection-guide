@@ -15,9 +15,9 @@ This project maintains a bilingual Chinese–English user and technical guide, o
 
 ## Current focus / 当前工作
 
-Confirm the software baseline and prepare the initial material for sections 3.3.2 and 3.5 (masks, bounding boxes and area filtering). Establish a representative bilingual sample before expanding the chapters or selecting a final build system.
+Confirm the software baseline and prepare the initial material for sections 3.3.2 and 3.5 (masks, bounding boxes and area filtering). Establish a representative bilingual sample before expanding the chapters or selecting a final build system. Then prioritize the everyday operation, new-recipe and camera maintenance appendices (A, B and D) together with their related sections; accumulate troubleshooting cases as they are confirmed.
 
-核对软件基准版本并准备 3.3.2 与 3.5 的首批素材（掩膜、外接矩形、面积过滤）。先确定代表性双语样稿，再展开正文和确定最终构建方式。
+核对软件基准版本并准备 3.3.2 与 3.5 的首批素材（掩膜、外接矩形、面积过滤）。先确定代表性双语样稿，再展开正文和确定最终构建方式。随后优先同步制作日常生产、新配方及相机维护的附录 A、B、D 与关联小节；持续积累已确认的常见问题案例。
 
 Read the working documents before editing. Keep Chinese and English synchronized. Use only material cleared for public sharing in this repository.
 
